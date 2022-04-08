@@ -1,0 +1,69 @@
+
+
+
+table{
+    margin-left: 30px;;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+    background-color: rgba(239, 234, 245, 0.897);
+}
+
+thead{
+    font-weight: bolder;
+}
+
+th{
+    border: 3px solid rgb(165, 165, 154);
+    min-width: 40px;
+    padding: 10px 20px;
+}
+
+td{
+    border: 3px solid rgb(165, 165, 154);
+    min-width: 40px;
+    padding: 10px 20px;
+}
+
+button{
+    border: 0ch;
+    border-radius: 10%;
+    height: 35px;
+    min-width: 80px;
+    color: rgb(238, 234, 228);
+    background-color: rgb(187, 187, 235);
+}
+.read{
+    background-color: rgb(153, 155, 233);
+}
+.update{
+    background-color: rgb(88, 153, 179);
+}
+.delete{
+    background-color: rgb(212, 76, 76);
+}
+
+.modal{
+    margin-top: 20px;
+    margin-left: 35px;
+    text-align: center;
+    background-color: rgb(166, 219, 202);
+    padding: 10px;
+    width: 300px;
+}
+
+.details-modal{
+    padding: 10px;
+    background-color: rgb(160, 214, 214);
+    margin-top: 20px;
+    width: 500px;
+}
+
+.rate-btn{
+    height: 25px;
+    min-width: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
